@@ -5,4 +5,4 @@
 
 ### Delopyed
 * this project have been deployed and can be accessed here
-[Website Link](https://github.com/Manohar-Penta/DTAssignment)
+[Website Link](https://manohar-penta.github.io/DTAssignment/)
